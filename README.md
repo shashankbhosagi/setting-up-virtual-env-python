@@ -59,8 +59,10 @@ source venvTest/bin/activate
 
 ## 4) Deactivating the virtual environment
 ```bash
-source venevTest/bin/deactivate
+source ~/.bashrc
 ```
+![image](https://github.com/shashankbhosagi/setting-up-virtual-env-python/assets/78866224/0cee2529-3986-4232-ad8d-2d89d06507a1)
+
 
 
 ## How to maintaina requirements.txt file
