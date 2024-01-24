@@ -51,11 +51,11 @@ source venvTest/bin/activate
 ```
 ![image](https://github.com/shashankbhosagi/setting-up-virtual-env-python/assets/78866224/261cee59-7332-4587-9fdb-ad3b6000e283)
 
-<h3> Hurray you have entered the virtual enviroment the name of the environment is shown before the username </h3>
+<h3> Hurray 🎉 you have entered the virtual enviroment the name of the environment is shown before the username </h3>
 
 #### Now as you have created virtual environment you can install all the dependencies for your app and run the python app
 
-### Note: When developing apps in python or any python framework makesure to maintain a `requirements.txt` inside the folder structure and keep adding name of libraries that you install during the development. And whenever I have to share with other person, he will directly activate the virtual environment and install all dependecies using `pip install -r requirements.txt`
+#### Note: When developing apps in python or any python framework makesure to maintain a `requirements.txt` inside the folder structure and keep adding name of libraries that you install during the development. And whenever I have to share with other person, he will directly activate the virtual environment and install all dependecies using `pip install -r requirements.txt`
 
 ## 4) Deactivating the virtual environment
 ```bash
